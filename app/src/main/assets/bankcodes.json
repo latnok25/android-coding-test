@@ -1,0 +1,6158 @@
+[
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "Zenith Bank",
+        "BANKNAME": "Zenith Bank",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema/ALAT",
+        "BANKNAME": "Wema/ALAT",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank",
+        "BANKNAME": "Providus Bank",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi",
+        "BANKNAME": "Omoluabi",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "EKONDO MICROFINANCE BANK ",
+        "BANKNAME": "EKONDO MICROFINANCE BANK ",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FINATRUST MICROFINANCE BANK ",
+        "BANKNAME": "FINATRUST MICROFINANCE BANK ",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "SEED CAPITAL MICROFINANCE BANK ",
+        "BANKNAME": "SEED CAPITAL MICROFINANCE BANK ",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MICROFINANCE BANK ",
+        "BANKNAME": "VFD MICROFINANCE BANK ",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "090004",
+        "bankname": "Parralex",
+        "BANKNAME": "Parralex",
+        "BANKCODE": "090004"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML Microfinance Bank",
+        "BANKNAME": "AMML Microfinance Bank",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank Limited",
+        "BANKNAME": "Boctrust Microfinance Bank Limited",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "EcoMobile",
+        "BANKNAME": "EcoMobile",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "ChamsMobile",
+        "BANKNAME": "ChamsMobile",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "miMONEY (IntelliFin Solutions Limited)",
+        "BANKNAME": "miMONEY (IntelliFin Solutions Limited)",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG Mortgage Bank Plc",
+        "BANKNAME": "AG Mortgage Bank Plc",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "Wetland Microfinance Bank",
+        "BANKNAME": "Wetland Microfinance Bank",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "Ohafia Microfinance Bank",
+        "BANKNAME": "Ohafia Microfinance Bank",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "Ibile Microfinance Bank",
+        "BANKNAME": "Ibile Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "VERITE MICROFINANCE BANK",
+        "BANKNAME": "VERITE MICROFINANCE BANK",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "Gateway Mortgage Bank",
+        "BANKNAME": "Gateway Mortgage Bank",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "Fidfund Microfinance Bank",
+        "BANKNAME": "Fidfund Microfinance Bank",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC KASH MICROFINANCE BANK",
+        "BANKNAME": "BC KASH MICROFINANCE BANK",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest Merchant Bank",
+        "BANKNAME": "FBNQuest Merchant Bank",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah Microfinance Bank",
+        "BANKNAME": "Ndiorah Microfinance Bank",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "Hasal Microfinance Bank",
+        "BANKNAME": "Hasal Microfinance Bank",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "Richway Microfinance Bank",
+        "BANKNAME": "Richway Microfinance Bank",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "Money Trust Microfinance Bank",
+        "BANKNAME": "Money Trust Microfinance Bank",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest Merchant Bank",
+        "BANKNAME": "FBNQuest Merchant Bank",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "070012",
+        "bankname": "LBIC Mortgage Bank",
+        "BANKNAME": "LBIC Mortgage Bank",
+        "BANKCODE": "070012"
+    },
+    {
+        "bankcode": "070013",
+        "bankname": "PLATINUM MORTGAGE BANK",
+        "BANKNAME": "PLATINUM MORTGAGE BANK",
+        "BANKCODE": "070013"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "090144",
+        "bankname": "CIT Microfinance Bank",
+        "BANKNAME": "CIT Microfinance Bank",
+        "BANKCODE": "090144"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest Merchant Bank",
+        "BANKNAME": "FBNQuest Merchant Bank",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "090131",
+        "bankname": "ALLWORKERS MFB",
+        "BANKNAME": "ALLWORKERS MFB",
+        "BANKCODE": "090131"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "RICHWAY MFB",
+        "BANKNAME": "RICHWAY MFB",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "090133",
+        "bankname": "AL-BARKAH MFB",
+        "BANKNAME": "AL-BARKAH MFB",
+        "BANKCODE": "090133"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "ACCION MFB",
+        "BANKNAME": "ACCION MFB",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "090139",
+        "bankname": "Visa Microfinance Bank",
+        "BANKNAME": "Visa Microfinance Bank",
+        "BANKCODE": "090139"
+    },
+    {
+        "bankcode": "090142",
+        "bankname": "Yes MFB",
+        "BANKNAME": "Yes MFB",
+        "BANKCODE": "090142"
+    },
+    {
+        "bankcode": "090143",
+        "bankname": "APEKS Microfinance Bank",
+        "BANKNAME": "APEKS Microfinance Bank",
+        "BANKCODE": "090143"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "Accion Microfinance Bank",
+        "BANKNAME": "Accion Microfinance Bank",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "100030",
+        "bankname": "Eco mobile",
+        "BANKNAME": "Eco mobile",
+        "BANKCODE": "100030"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest Merchant Bank",
+        "BANKNAME": "FBNQuest Merchant Bank",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "070012",
+        "bankname": "LBIC Mortgage Bank",
+        "BANKNAME": "LBIC Mortgage Bank",
+        "BANKCODE": "070012"
+    },
+    {
+        "bankcode": "070013",
+        "bankname": "PLATINUM MORTGAGE BANK",
+        "BANKNAME": "PLATINUM MORTGAGE BANK",
+        "BANKCODE": "070013"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "090153",
+        "bankname": "FFS Microfinance Bank",
+        "BANKNAME": "FFS Microfinance Bank",
+        "BANKCODE": "090153"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "090131",
+        "bankname": "ALLWORKERS MFB",
+        "BANKNAME": "ALLWORKERS MFB",
+        "BANKCODE": "090131"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "RICHWAY MFB",
+        "BANKNAME": "RICHWAY MFB",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "090133",
+        "bankname": "AL-BARKAH MFB",
+        "BANKNAME": "AL-BARKAH MFB",
+        "BANKCODE": "090133"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "ACCION MFB",
+        "BANKNAME": "ACCION MFB",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "090139",
+        "bankname": "Visa Microfinance Bank",
+        "BANKNAME": "Visa Microfinance Bank",
+        "BANKCODE": "090139"
+    },
+    {
+        "bankcode": "090142",
+        "bankname": "Yes MFB",
+        "BANKNAME": "Yes MFB",
+        "BANKCODE": "090142"
+    },
+    {
+        "bankcode": "090143",
+        "bankname": "APEKS Microfinance Bank",
+        "BANKNAME": "APEKS Microfinance Bank",
+        "BANKCODE": "090143"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "100030",
+        "bankname": "Eco mobile",
+        "BANKNAME": "Eco mobile",
+        "BANKCODE": "100030"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "090137",
+        "bankname": "PECANTRUST MFB",
+        "BANKNAME": "PECANTRUST MFB",
+        "BANKCODE": "090137"
+    },
+    {
+        "bankcode": "090140",
+        "bankname": "Sagamu Microfinance Bank",
+        "BANKNAME": "Sagamu Microfinance Bank",
+        "BANKCODE": "090140"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest Merchant Bank",
+        "BANKNAME": "FBNQuest Merchant Bank",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "090138",
+        "bankname": "Royal Exchange Microfinance Bank",
+        "BANKNAME": "Royal Exchange Microfinance Bank",
+        "BANKCODE": "090138"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "070012",
+        "bankname": "LBIC Mortgage Bank",
+        "BANKNAME": "LBIC Mortgage Bank",
+        "BANKCODE": "070012"
+    },
+    {
+        "bankcode": "070013",
+        "bankname": "PLATINUM MORTGAGE BANK",
+        "BANKNAME": "PLATINUM MORTGAGE BANK",
+        "BANKCODE": "070013"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "90148",
+        "bankname": "BOWEN MICROFINANCE BANK",
+        "BANKNAME": "BOWEN MICROFINANCE BANK",
+        "BANKCODE": "90148"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "090131",
+        "bankname": "ALLWORKERS MFB",
+        "BANKNAME": "ALLWORKERS MFB",
+        "BANKCODE": "090131"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "RICHWAY MFB",
+        "BANKNAME": "RICHWAY MFB",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "090133",
+        "bankname": "AL-BARKAH MFB",
+        "BANKNAME": "AL-BARKAH MFB",
+        "BANKCODE": "090133"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "ACCION MFB",
+        "BANKNAME": "ACCION MFB",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "090137",
+        "bankname": "Pecan Trust Microfinance Bank",
+        "BANKNAME": "Pecan Trust Microfinance Bank",
+        "BANKCODE": "090137"
+    },
+    {
+        "bankcode": "090138",
+        "bankname": "Royal Exchange Microfinance Bank",
+        "BANKNAME": "Royal Exchange Microfinance Bank",
+        "BANKCODE": "090138"
+    },
+    {
+        "bankcode": "090139",
+        "bankname": "Visa Microfinance Bank",
+        "BANKNAME": "Visa Microfinance Bank",
+        "BANKCODE": "090139"
+    },
+    {
+        "bankcode": "090140",
+        "bankname": "Sagamu Microfinance Bank",
+        "BANKNAME": "Sagamu Microfinance Bank",
+        "BANKCODE": "090140"
+    },
+    {
+        "bankcode": "090142",
+        "bankname": "Yes MFB",
+        "BANKNAME": "Yes MFB",
+        "BANKCODE": "090142"
+    },
+    {
+        "bankcode": "090143",
+        "bankname": "APEKS Microfinance Bank",
+        "BANKNAME": "APEKS Microfinance Bank",
+        "BANKCODE": "090143"
+    },
+    {
+        "bankcode": "090146",
+        "bankname": "Trident Microfinance Bank",
+        "BANKNAME": "Trident Microfinance Bank",
+        "BANKCODE": "090146"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "090145",
+        "bankname": "FULLRANGE MICROFINANCE BANK",
+        "BANKNAME": "FULLRANGE MICROFINANCE BANK",
+        "BANKCODE": "090145"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "090150",
+        "bankname": "VIRTUE MICROFINANCE BANK   ",
+        "BANKNAME": "VIRTUE MICROFINANCE BANK   ",
+        "BANKCODE": "090150"
+    },
+    {
+        "bankcode": "090160",
+        "bankname": "Addosser Microfinance Bank",
+        "BANKNAME": "Addosser Microfinance Bank",
+        "BANKCODE": "090160"
+    },
+    {
+        "bankcode": "090156",
+        "bankname": "e-BARCS MICROFINANCE BANK",
+        "BANKNAME": "e-BARCS MICROFINANCE BANK",
+        "BANKCODE": "090156"
+    },
+    {
+        "bankcode": "100031",
+        "bankname": "FCMB MOBILE",
+        "BANKNAME": "FCMB MOBILE",
+        "BANKCODE": "100031"
+    },
+    {
+        "bankcode": "100032",
+        "bankname": "Contec Global Infotech Limited (NowNow)",
+        "BANKNAME": "Contec Global Infotech Limited (NowNow)",
+        "BANKCODE": "100032"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest MERCHANT BANK",
+        "BANKNAME": "FBNQuest MERCHANT BANK",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "060003",
+        "bankname": "NOVA MB",
+        "BANKNAME": "NOVA MB",
+        "BANKCODE": "060003"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "070012",
+        "bankname": "LBIC Mortgage Bank",
+        "BANKNAME": "LBIC Mortgage Bank",
+        "BANKCODE": "070012"
+    },
+    {
+        "bankcode": "070013",
+        "bankname": "PLATINUM MORTGAGE BANK",
+        "BANKNAME": "PLATINUM MORTGAGE BANK",
+        "BANKCODE": "070013"
+    },
+    {
+        "bankcode": "070014",
+        "bankname": "First Generation Mortgage Bank",
+        "BANKNAME": "First Generation Mortgage Bank",
+        "BANKCODE": "070014"
+    },
+    {
+        "bankcode": "070015",
+        "bankname": "Brent Mortgage Bank",
+        "BANKNAME": "Brent Mortgage Bank",
+        "BANKCODE": "070015"
+    },
+    {
+        "bankcode": "070016",
+        "bankname": "Infinity trust  Mortgage Bank",
+        "BANKNAME": "Infinity trust  Mortgage Bank",
+        "BANKCODE": "070016"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest Merchant Bank",
+        "BANKNAME": "FBNQuest Merchant Bank",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "070012",
+        "bankname": "LBIC Mortgage Bank",
+        "BANKNAME": "LBIC Mortgage Bank",
+        "BANKCODE": "070012"
+    },
+    {
+        "bankcode": "070013",
+        "bankname": "PLATINUM MORTGAGE BANK",
+        "BANKNAME": "PLATINUM MORTGAGE BANK",
+        "BANKCODE": "070013"
+    },
+    {
+        "bankcode": "070014",
+        "bankname": "First Generation Mortgage Bank",
+        "BANKNAME": "First Generation Mortgage Bank",
+        "BANKCODE": "070014"
+    },
+    {
+        "bankcode": "070016",
+        "bankname": "Infinity trust  Mortgage Bank",
+        "BANKNAME": "Infinity trust  Mortgage Bank",
+        "BANKCODE": "070016"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "090131",
+        "bankname": "ALLWORKERS MFB",
+        "BANKNAME": "ALLWORKERS MFB",
+        "BANKCODE": "090131"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "RICHWAY MFB",
+        "BANKNAME": "RICHWAY MFB",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "090133",
+        "bankname": "AL-BARKAH MFB",
+        "BANKNAME": "AL-BARKAH MFB",
+        "BANKCODE": "090133"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "ACCION MFB",
+        "BANKNAME": "ACCION MFB",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "090137",
+        "bankname": "Pecan Trust Microfinance Bank",
+        "BANKNAME": "Pecan Trust Microfinance Bank",
+        "BANKCODE": "090137"
+    },
+    {
+        "bankcode": "090138",
+        "bankname": "Royal Exchange Microfinance Bank",
+        "BANKNAME": "Royal Exchange Microfinance Bank",
+        "BANKCODE": "090138"
+    },
+    {
+        "bankcode": "090139",
+        "bankname": "Visa Microfinance Bank",
+        "BANKNAME": "Visa Microfinance Bank",
+        "BANKCODE": "090139"
+    },
+    {
+        "bankcode": "090140",
+        "bankname": "Sagamu Microfinance Bank",
+        "BANKNAME": "Sagamu Microfinance Bank",
+        "BANKCODE": "090140"
+    },
+    {
+        "bankcode": "090141",
+        "bankname": "Chikum Microfinance Bank",
+        "BANKNAME": "Chikum Microfinance Bank",
+        "BANKCODE": "090141"
+    },
+    {
+        "bankcode": "090142",
+        "bankname": "Yes MFB",
+        "BANKNAME": "Yes MFB",
+        "BANKCODE": "090142"
+    },
+    {
+        "bankcode": "090143",
+        "bankname": "APEKS Microfinance Bank",
+        "BANKNAME": "APEKS Microfinance Bank",
+        "BANKCODE": "090143"
+    },
+    {
+        "bankcode": "090144",
+        "bankname": "CIT Microfinance Bank",
+        "BANKNAME": "CIT Microfinance Bank",
+        "BANKCODE": "090144"
+    },
+    {
+        "bankcode": "090145",
+        "bankname": "Full range MFB",
+        "BANKNAME": "Full range MFB",
+        "BANKCODE": "090145"
+    },
+    {
+        "bankcode": "090146",
+        "bankname": "Trident Microfinance Bank",
+        "BANKNAME": "Trident Microfinance Bank",
+        "BANKCODE": "090146"
+    },
+    {
+        "bankcode": "090149",
+        "bankname": "IRL Microfinance Bank",
+        "BANKNAME": "IRL Microfinance Bank",
+        "BANKCODE": "090149"
+    },
+    {
+        "bankcode": "090151",
+        "bankname": "Mutual Trust Microfinance Bank",
+        "BANKNAME": "Mutual Trust Microfinance Bank",
+        "BANKCODE": "090151"
+    },
+    {
+        "bankcode": "090152",
+        "bankname": "Nargata MFB",
+        "BANKNAME": "Nargata MFB",
+        "BANKCODE": "090152"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest Merchant Bank",
+        "BANKNAME": "FBNQuest Merchant Bank",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "070012",
+        "bankname": "LBIC Mortgage Bank",
+        "BANKNAME": "LBIC Mortgage Bank",
+        "BANKCODE": "070012"
+    },
+    {
+        "bankcode": "070013",
+        "bankname": "PLATINUM MORTGAGE BANK",
+        "BANKNAME": "PLATINUM MORTGAGE BANK",
+        "BANKCODE": "070013"
+    },
+    {
+        "bankcode": "070014",
+        "bankname": "First Generation Mortgage Bank",
+        "BANKNAME": "First Generation Mortgage Bank",
+        "BANKCODE": "070014"
+    },
+    {
+        "bankcode": "070016",
+        "bankname": "Infinity trust  Mortgage Bank",
+        "BANKNAME": "Infinity trust  Mortgage Bank",
+        "BANKCODE": "070016"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "090131",
+        "bankname": "ALLWORKERS MFB",
+        "BANKNAME": "ALLWORKERS MFB",
+        "BANKCODE": "090131"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "RICHWAY MFB",
+        "BANKNAME": "RICHWAY MFB",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "090133",
+        "bankname": "AL-BARKAH MFB",
+        "BANKNAME": "AL-BARKAH MFB",
+        "BANKCODE": "090133"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "ACCION MFB",
+        "BANKNAME": "ACCION MFB",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "090137",
+        "bankname": "Pecan Trust Microfinance Bank",
+        "BANKNAME": "Pecan Trust Microfinance Bank",
+        "BANKCODE": "090137"
+    },
+    {
+        "bankcode": "090138",
+        "bankname": "Royal Exchange Microfinance Bank",
+        "BANKNAME": "Royal Exchange Microfinance Bank",
+        "BANKCODE": "090138"
+    },
+    {
+        "bankcode": "090139",
+        "bankname": "Visa Microfinance Bank",
+        "BANKNAME": "Visa Microfinance Bank",
+        "BANKCODE": "090139"
+    },
+    {
+        "bankcode": "090140",
+        "bankname": "Sagamu Microfinance Bank",
+        "BANKNAME": "Sagamu Microfinance Bank",
+        "BANKCODE": "090140"
+    },
+    {
+        "bankcode": "090141",
+        "bankname": "Chikum Microfinance Bank",
+        "BANKNAME": "Chikum Microfinance Bank",
+        "BANKCODE": "090141"
+    },
+    {
+        "bankcode": "090142",
+        "bankname": "Yes MFB",
+        "BANKNAME": "Yes MFB",
+        "BANKCODE": "090142"
+    },
+    {
+        "bankcode": "090143",
+        "bankname": "APEKS Microfinance Bank",
+        "BANKNAME": "APEKS Microfinance Bank",
+        "BANKCODE": "090143"
+    },
+    {
+        "bankcode": "090144",
+        "bankname": "CIT Microfinance Bank",
+        "BANKNAME": "CIT Microfinance Bank",
+        "BANKCODE": "090144"
+    },
+    {
+        "bankcode": "090145",
+        "bankname": "Full range MFB",
+        "BANKNAME": "Full range MFB",
+        "BANKCODE": "090145"
+    },
+    {
+        "bankcode": "090146",
+        "bankname": "Trident Microfinance Bank",
+        "BANKNAME": "Trident Microfinance Bank",
+        "BANKCODE": "090146"
+    },
+    {
+        "bankcode": "090149",
+        "bankname": "IRL Microfinance Bank",
+        "BANKNAME": "IRL Microfinance Bank",
+        "BANKCODE": "090149"
+    },
+    {
+        "bankcode": "090151",
+        "bankname": "Mutual Trust Microfinance Bank",
+        "BANKNAME": "Mutual Trust Microfinance Bank",
+        "BANKCODE": "090151"
+    },
+    {
+        "bankcode": "090152",
+        "bankname": "Nargata MFB",
+        "BANKNAME": "Nargata MFB",
+        "BANKCODE": "090152"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "110002",
+        "bankname": "FLUTTERWAVE TECHNOLOGY SOLUTIONS LIMITED",
+        "BANKNAME": "FLUTTERWAVE TECHNOLOGY SOLUTIONS LIMITED",
+        "BANKCODE": "110002"
+    },
+    {
+        "bankcode": "070015",
+        "bankname": "BRENT MORTGAGE BANK  ",
+        "BANKNAME": "BRENT MORTGAGE BANK  ",
+        "BANKCODE": "070015"
+    },
+    {
+        "bankcode": "090159",
+        "bankname": "CREDIT AFRIQUE MICROFINANCE BANK",
+        "BANKNAME": "CREDIT AFRIQUE MICROFINANCE BANK",
+        "BANKCODE": "090159"
+    },
+    {
+        "bankcode": "090154",
+        "bankname": "CEMCS MICROFINANCE BANK ",
+        "BANKNAME": "CEMCS MICROFINANCE BANK ",
+        "BANKCODE": "090154"
+    },
+    {
+        "bankcode": "090004",
+        "bankname": "Parralex",
+        "BANKNAME": "Parralex",
+        "BANKCODE": "090004"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "090131",
+        "bankname": "ALLWORKERS MFB",
+        "BANKNAME": "ALLWORKERS MFB",
+        "BANKCODE": "090131"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "RICHWAY MFB",
+        "BANKNAME": "RICHWAY MFB",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "090133",
+        "bankname": "AL-BARKAH MFB",
+        "BANKNAME": "AL-BARKAH MFB",
+        "BANKCODE": "090133"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "ACCION MFB",
+        "BANKNAME": "ACCION MFB",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "090137",
+        "bankname": "Pecan Trust Microfinance Bank",
+        "BANKNAME": "Pecan Trust Microfinance Bank",
+        "BANKCODE": "090137"
+    },
+    {
+        "bankcode": "090138",
+        "bankname": "Royal Exchange Microfinance Bank",
+        "BANKNAME": "Royal Exchange Microfinance Bank",
+        "BANKCODE": "090138"
+    },
+    {
+        "bankcode": "090139",
+        "bankname": "Visa Microfinance Bank",
+        "BANKNAME": "Visa Microfinance Bank",
+        "BANKCODE": "090139"
+    },
+    {
+        "bankcode": "090140",
+        "bankname": "Sagamu Microfinance Bank",
+        "BANKNAME": "Sagamu Microfinance Bank",
+        "BANKCODE": "090140"
+    },
+    {
+        "bankcode": "090141",
+        "bankname": "Chikum Microfinance Bank",
+        "BANKNAME": "Chikum Microfinance Bank",
+        "BANKCODE": "090141"
+    },
+    {
+        "bankcode": "090142",
+        "bankname": "Yes MFB",
+        "BANKNAME": "Yes MFB",
+        "BANKCODE": "090142"
+    },
+    {
+        "bankcode": "090143",
+        "bankname": "APEKS Microfinance Bank",
+        "BANKNAME": "APEKS Microfinance Bank",
+        "BANKCODE": "090143"
+    },
+    {
+        "bankcode": "090144",
+        "bankname": "CIT Microfinance Bank",
+        "BANKNAME": "CIT Microfinance Bank",
+        "BANKCODE": "090144"
+    },
+    {
+        "bankcode": "090145",
+        "bankname": "Full range MFB",
+        "BANKNAME": "Full range MFB",
+        "BANKCODE": "090145"
+    },
+    {
+        "bankcode": "090146",
+        "bankname": "Trident Microfinance Bank",
+        "BANKNAME": "Trident Microfinance Bank",
+        "BANKCODE": "090146"
+    },
+    {
+        "bankcode": "090147",
+        "bankname": "Hackman Microfinance Bank",
+        "BANKNAME": "Hackman Microfinance Bank",
+        "BANKCODE": "090147"
+    },
+    {
+        "bankcode": "090148",
+        "bankname": "Bowen MFB",
+        "BANKNAME": "Bowen MFB",
+        "BANKCODE": "090148"
+    },
+    {
+        "bankcode": "090149",
+        "bankname": "IRL Microfinance Bank",
+        "BANKNAME": "IRL Microfinance Bank",
+        "BANKCODE": "090149"
+    },
+    {
+        "bankcode": "090150",
+        "bankname": "Virtue MFB",
+        "BANKNAME": "Virtue MFB",
+        "BANKCODE": "090150"
+    },
+    {
+        "bankcode": "090151",
+        "bankname": "Mutual Trust Microfinance Bank",
+        "BANKNAME": "Mutual Trust Microfinance Bank",
+        "BANKCODE": "090151"
+    },
+    {
+        "bankcode": "090152",
+        "bankname": "Nargata MFB",
+        "BANKNAME": "Nargata MFB",
+        "BANKCODE": "090152"
+    },
+    {
+        "bankcode": "090153",
+        "bankname": "FFS Microfinance Bank",
+        "BANKNAME": "FFS Microfinance Bank",
+        "BANKCODE": "090153"
+    },
+    {
+        "bankcode": "090154",
+        "bankname": "CEMCS MFB",
+        "BANKNAME": "CEMCS MFB",
+        "BANKCODE": "090154"
+    },
+    {
+        "bankcode": "090155",
+        "bankname": "Lafayette Microfinance Bank",
+        "BANKNAME": "Lafayette Microfinance Bank",
+        "BANKCODE": "090155"
+    },
+    {
+        "bankcode": "090156",
+        "bankname": "e-BARCs MFB",
+        "BANKNAME": "e-BARCs MFB",
+        "BANKCODE": "090156"
+    },
+    {
+        "bankcode": "090157",
+        "bankname": "Infinity MFB",
+        "BANKNAME": "Infinity MFB",
+        "BANKCODE": "090157"
+    },
+    {
+        "bankcode": "090158",
+        "bankname": "FUTO MFB",
+        "BANKNAME": "FUTO MFB",
+        "BANKCODE": "090158"
+    },
+    {
+        "bankcode": "090159",
+        "bankname": "Credit Afrique MFB",
+        "BANKNAME": "Credit Afrique MFB",
+        "BANKCODE": "090159"
+    },
+    {
+        "bankcode": "090160",
+        "bankname": "Addosser MFBB",
+        "BANKNAME": "Addosser MFBB",
+        "BANKCODE": "090160"
+    },
+    {
+        "bankcode": "090161",
+        "bankname": "Okpoga MFB",
+        "BANKNAME": "Okpoga MFB",
+        "BANKCODE": "090161"
+    },
+    {
+        "bankcode": "090163",
+        "bankname": "First Multiple MFB",
+        "BANKNAME": "First Multiple MFB",
+        "BANKCODE": "090163"
+    },
+    {
+        "bankcode": "090164",
+        "bankname": "First Royal Microfinance Bank",
+        "BANKNAME": "First Royal Microfinance Bank",
+        "BANKCODE": "090164"
+    },
+    {
+        "bankcode": "090165",
+        "bankname": "Petra Microfinance Bank",
+        "BANKNAME": "Petra Microfinance Bank",
+        "BANKCODE": "090165"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "100031",
+        "bankname": "FCMB MOBILE",
+        "BANKNAME": "FCMB MOBILE",
+        "BANKCODE": "100031"
+    },
+    {
+        "bankcode": "100032",
+        "bankname": "Contec Global",
+        "BANKNAME": "Contec Global",
+        "BANKCODE": "100032"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "110002",
+        "bankname": "Flutterwave Technology solutions Limited",
+        "BANKNAME": "Flutterwave Technology solutions Limited",
+        "BANKCODE": "110002"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    },
+    {
+        "bankcode": "060003",
+        "bankname": "NOVA MERCHANT BANK LTD ",
+        "BANKNAME": "NOVA MERCHANT BANK LTD ",
+        "BANKCODE": "060003"
+    },
+    {
+        "bankcode": "000001",
+        "bankname": "Sterling Bank",
+        "BANKNAME": "Sterling Bank",
+        "BANKCODE": "000001"
+    },
+    {
+        "bankcode": "000002",
+        "bankname": "Keystone Bank",
+        "BANKNAME": "Keystone Bank",
+        "BANKCODE": "000002"
+    },
+    {
+        "bankcode": "000003",
+        "bankname": "First City Monument Bank",
+        "BANKNAME": "First City Monument Bank",
+        "BANKCODE": "000003"
+    },
+    {
+        "bankcode": "000004",
+        "bankname": "United Bank for Africa",
+        "BANKNAME": "United Bank for Africa",
+        "BANKCODE": "000004"
+    },
+    {
+        "bankcode": "000005",
+        "bankname": "Diamond Bank",
+        "BANKNAME": "Diamond Bank",
+        "BANKCODE": "000005"
+    },
+    {
+        "bankcode": "000006",
+        "bankname": "JAIZ Bank",
+        "BANKNAME": "JAIZ Bank",
+        "BANKCODE": "000006"
+    },
+    {
+        "bankcode": "000007",
+        "bankname": "Fidelity Bank",
+        "BANKNAME": "Fidelity Bank",
+        "BANKCODE": "000007"
+    },
+    {
+        "bankcode": "000008",
+        "bankname": "Skye Bank",
+        "BANKNAME": "Skye Bank",
+        "BANKCODE": "000008"
+    },
+    {
+        "bankcode": "000009",
+        "bankname": "Citi Bank",
+        "BANKNAME": "Citi Bank",
+        "BANKCODE": "000009"
+    },
+    {
+        "bankcode": "000010",
+        "bankname": "Ecobank Bank",
+        "BANKNAME": "Ecobank Bank",
+        "BANKCODE": "000010"
+    },
+    {
+        "bankcode": "000011",
+        "bankname": "Unity Bank",
+        "BANKNAME": "Unity Bank",
+        "BANKCODE": "000011"
+    },
+    {
+        "bankcode": "000012",
+        "bankname": "StanbicIBTC Bank",
+        "BANKNAME": "StanbicIBTC Bank",
+        "BANKCODE": "000012"
+    },
+    {
+        "bankcode": "000013",
+        "bankname": "GTBank Plc",
+        "BANKNAME": "GTBank Plc",
+        "BANKCODE": "000013"
+    },
+    {
+        "bankcode": "000014",
+        "bankname": "Access Bank",
+        "BANKNAME": "Access Bank",
+        "BANKCODE": "000014"
+    },
+    {
+        "bankcode": "000015",
+        "bankname": "ZENITH BANK PLC",
+        "BANKNAME": "ZENITH BANK PLC",
+        "BANKCODE": "000015"
+    },
+    {
+        "bankcode": "000016",
+        "bankname": "First Bank of Nigeria",
+        "BANKNAME": "First Bank of Nigeria",
+        "BANKCODE": "000016"
+    },
+    {
+        "bankcode": "000017",
+        "bankname": "Wema Bank",
+        "BANKNAME": "Wema Bank",
+        "BANKCODE": "000017"
+    },
+    {
+        "bankcode": "000018",
+        "bankname": "Union Bank",
+        "BANKNAME": "Union Bank",
+        "BANKCODE": "000018"
+    },
+    {
+        "bankcode": "000019",
+        "bankname": "Enterprise Bank",
+        "BANKNAME": "Enterprise Bank",
+        "BANKCODE": "000019"
+    },
+    {
+        "bankcode": "000020",
+        "bankname": "Heritage",
+        "BANKNAME": "Heritage",
+        "BANKCODE": "000020"
+    },
+    {
+        "bankcode": "000021",
+        "bankname": "StandardChartered",
+        "BANKNAME": "StandardChartered",
+        "BANKCODE": "000021"
+    },
+    {
+        "bankcode": "000022",
+        "bankname": "SUNTRUST BANK",
+        "BANKNAME": "SUNTRUST BANK",
+        "BANKCODE": "000022"
+    },
+    {
+        "bankcode": "000023",
+        "bankname": "Providus Bank ",
+        "BANKNAME": "Providus Bank ",
+        "BANKCODE": "000023"
+    },
+    {
+        "bankcode": "000024",
+        "bankname": "Rand Merchant Bank",
+        "BANKNAME": "Rand Merchant Bank",
+        "BANKCODE": "000024"
+    },
+    {
+        "bankcode": "060001",
+        "bankname": "Coronation",
+        "BANKNAME": "Coronation",
+        "BANKCODE": "060001"
+    },
+    {
+        "bankcode": "060002",
+        "bankname": "FBNQuest MERCHANT BANK",
+        "BANKNAME": "FBNQuest MERCHANT BANK",
+        "BANKCODE": "060002"
+    },
+    {
+        "bankcode": "060003",
+        "bankname": "NOVA MB",
+        "BANKNAME": "NOVA MB",
+        "BANKCODE": "060003"
+    },
+    {
+        "bankcode": "070001",
+        "bankname": "NPF MicroFinance Bank",
+        "BANKNAME": "NPF MicroFinance Bank",
+        "BANKCODE": "070001"
+    },
+    {
+        "bankcode": "070002",
+        "bankname": "Fortis Microfinance Bank",
+        "BANKNAME": "Fortis Microfinance Bank",
+        "BANKCODE": "070002"
+    },
+    {
+        "bankcode": "070006",
+        "bankname": "Covenant MFB",
+        "BANKNAME": "Covenant MFB",
+        "BANKCODE": "070006"
+    },
+    {
+        "bankcode": "070007",
+        "bankname": "Omoluabi Mortgage Bank Plc",
+        "BANKNAME": "Omoluabi Mortgage Bank Plc",
+        "BANKCODE": "070007"
+    },
+    {
+        "bankcode": "070008",
+        "bankname": "Page MFBank",
+        "BANKNAME": "Page MFBank",
+        "BANKCODE": "070008"
+    },
+    {
+        "bankcode": "070009",
+        "bankname": "GATEWAY MORTGAGE BANK",
+        "BANKNAME": "GATEWAY MORTGAGE BANK",
+        "BANKCODE": "070009"
+    },
+    {
+        "bankcode": "070010",
+        "bankname": "ABBEY MORTGAGE BANK",
+        "BANKNAME": "ABBEY MORTGAGE BANK",
+        "BANKCODE": "070010"
+    },
+    {
+        "bankcode": "070011",
+        "bankname": "Refuge Mortgage Bank",
+        "BANKNAME": "Refuge Mortgage Bank",
+        "BANKCODE": "070011"
+    },
+    {
+        "bankcode": "070012",
+        "bankname": "LBIC Mortgage Bank",
+        "BANKNAME": "LBIC Mortgage Bank",
+        "BANKCODE": "070012"
+    },
+    {
+        "bankcode": "070013",
+        "bankname": "PLATINUM MORTGAGE BANK",
+        "BANKNAME": "PLATINUM MORTGAGE BANK",
+        "BANKCODE": "070013"
+    },
+    {
+        "bankcode": "070014",
+        "bankname": "First Generation Mortgage Bank",
+        "BANKNAME": "First Generation Mortgage Bank",
+        "BANKCODE": "070014"
+    },
+    {
+        "bankcode": "070015",
+        "bankname": "Brent Mortgage Bank",
+        "BANKNAME": "Brent Mortgage Bank",
+        "BANKCODE": "070015"
+    },
+    {
+        "bankcode": "070016",
+        "bankname": "Infinity trust  Mortgage Bank",
+        "BANKNAME": "Infinity trust  Mortgage Bank",
+        "BANKCODE": "070016"
+    },
+    {
+        "bankcode": "090001",
+        "bankname": "ASOSavings",
+        "BANKNAME": "ASOSavings",
+        "BANKCODE": "090001"
+    },
+    {
+        "bankcode": "090003",
+        "bankname": "JubileeLife",
+        "BANKNAME": "JubileeLife",
+        "BANKCODE": "090003"
+    },
+    {
+        "bankcode": "090004",
+        "bankname": "Parralex",
+        "BANKNAME": "Parralex",
+        "BANKCODE": "090004"
+    },
+    {
+        "bankcode": "090005",
+        "bankname": "Trustbond",
+        "BANKNAME": "Trustbond",
+        "BANKCODE": "090005"
+    },
+    {
+        "bankcode": "090006",
+        "bankname": "SafeTrust",
+        "BANKNAME": "SafeTrust",
+        "BANKCODE": "090006"
+    },
+    {
+        "bankcode": "090097",
+        "bankname": "Ekondo MFB",
+        "BANKNAME": "Ekondo MFB",
+        "BANKCODE": "090097"
+    },
+    {
+        "bankcode": "090107",
+        "bankname": "FBN Morgages Limited",
+        "BANKNAME": "FBN Morgages Limited",
+        "BANKCODE": "090107"
+    },
+    {
+        "bankcode": "090108",
+        "bankname": "New Prudential Bank",
+        "BANKNAME": "New Prudential Bank",
+        "BANKCODE": "090108"
+    },
+    {
+        "bankcode": "090110",
+        "bankname": "VFD MFB",
+        "BANKNAME": "VFD MFB",
+        "BANKCODE": "090110"
+    },
+    {
+        "bankcode": "090111",
+        "bankname": "FinaTrust Microfinance Bank",
+        "BANKNAME": "FinaTrust Microfinance Bank",
+        "BANKCODE": "090111"
+    },
+    {
+        "bankcode": "090112",
+        "bankname": "Seed Capital Microfinance Bank",
+        "BANKNAME": "Seed Capital Microfinance Bank",
+        "BANKCODE": "090112"
+    },
+    {
+        "bankcode": "090114",
+        "bankname": "EMPIRE MFB",
+        "BANKNAME": "EMPIRE MFB",
+        "BANKCODE": "090114"
+    },
+    {
+        "bankcode": "090115",
+        "bankname": "TCF",
+        "BANKNAME": "TCF",
+        "BANKCODE": "090115"
+    },
+    {
+        "bankcode": "090116",
+        "bankname": "AMML MFB",
+        "BANKNAME": "AMML MFB",
+        "BANKCODE": "090116"
+    },
+    {
+        "bankcode": "090117",
+        "bankname": "Boctrust Microfinance Bank",
+        "BANKNAME": "Boctrust Microfinance Bank",
+        "BANKCODE": "090117"
+    },
+    {
+        "bankcode": "090118",
+        "bankname": "IBILE Microfinance Bank",
+        "BANKNAME": "IBILE Microfinance Bank",
+        "BANKCODE": "090118"
+    },
+    {
+        "bankcode": "090119",
+        "bankname": "OHAFIA MFB",
+        "BANKNAME": "OHAFIA MFB",
+        "BANKCODE": "090119"
+    },
+    {
+        "bankcode": "090120",
+        "bankname": "WETLAND MFB",
+        "BANKNAME": "WETLAND MFB",
+        "BANKCODE": "090120"
+    },
+    {
+        "bankcode": "090121",
+        "bankname": "HASAL MFB",
+        "BANKNAME": "HASAL MFB",
+        "BANKCODE": "090121"
+    },
+    {
+        "bankcode": "090122",
+        "bankname": "GOWANS MFB",
+        "BANKNAME": "GOWANS MFB",
+        "BANKCODE": "090122"
+    },
+    {
+        "bankcode": "090123",
+        "bankname": "Verite Microfinance Bank",
+        "BANKNAME": "Verite Microfinance Bank",
+        "BANKCODE": "090123"
+    },
+    {
+        "bankcode": "090124",
+        "bankname": "XSLNCE Microfinance Bank",
+        "BANKNAME": "XSLNCE Microfinance Bank",
+        "BANKCODE": "090124"
+    },
+    {
+        "bankcode": "090125",
+        "bankname": "REGENT MFB",
+        "BANKNAME": "REGENT MFB",
+        "BANKCODE": "090125"
+    },
+    {
+        "bankcode": "090126",
+        "bankname": "FidFund MFB",
+        "BANKNAME": "FidFund MFB",
+        "BANKCODE": "090126"
+    },
+    {
+        "bankcode": "090127",
+        "bankname": "BC Kash MFB",
+        "BANKNAME": "BC Kash MFB",
+        "BANKCODE": "090127"
+    },
+    {
+        "bankcode": "090128",
+        "bankname": "Ndiorah MFB",
+        "BANKNAME": "Ndiorah MFB",
+        "BANKCODE": "090128"
+    },
+    {
+        "bankcode": "090129",
+        "bankname": "MONEYTRUST MFB",
+        "BANKNAME": "MONEYTRUST MFB",
+        "BANKCODE": "090129"
+    },
+    {
+        "bankcode": "090130",
+        "bankname": "CONSUMER  MFB",
+        "BANKNAME": "CONSUMER  MFB",
+        "BANKCODE": "090130"
+    },
+    {
+        "bankcode": "090131",
+        "bankname": "ALLWORKERS MFB",
+        "BANKNAME": "ALLWORKERS MFB",
+        "BANKCODE": "090131"
+    },
+    {
+        "bankcode": "090132",
+        "bankname": "RICHWAY MFB",
+        "BANKNAME": "RICHWAY MFB",
+        "BANKCODE": "090132"
+    },
+    {
+        "bankcode": "090133",
+        "bankname": "AL-BARKAH MFB",
+        "BANKNAME": "AL-BARKAH MFB",
+        "BANKCODE": "090133"
+    },
+    {
+        "bankcode": "090134",
+        "bankname": "ACCION MFB",
+        "BANKNAME": "ACCION MFB",
+        "BANKCODE": "090134"
+    },
+    {
+        "bankcode": "090135",
+        "bankname": "Personal Trust Microfinance Bank",
+        "BANKNAME": "Personal Trust Microfinance Bank",
+        "BANKCODE": "090135"
+    },
+    {
+        "bankcode": "090136",
+        "bankname": "Microcred Microfinance Bank",
+        "BANKNAME": "Microcred Microfinance Bank",
+        "BANKCODE": "090136"
+    },
+    {
+        "bankcode": "090137",
+        "bankname": "Pecan Trust Microfinance Bank",
+        "BANKNAME": "Pecan Trust Microfinance Bank",
+        "BANKCODE": "090137"
+    },
+    {
+        "bankcode": "090138",
+        "bankname": "Royal Exchange Microfinance Bank",
+        "BANKNAME": "Royal Exchange Microfinance Bank",
+        "BANKCODE": "090138"
+    },
+    {
+        "bankcode": "090139",
+        "bankname": "Visa Microfinance Bank",
+        "BANKNAME": "Visa Microfinance Bank",
+        "BANKCODE": "090139"
+    },
+    {
+        "bankcode": "090140",
+        "bankname": "Sagamu Microfinance Bank",
+        "BANKNAME": "Sagamu Microfinance Bank",
+        "BANKCODE": "090140"
+    },
+    {
+        "bankcode": "090141",
+        "bankname": "Chikum Microfinance Bank",
+        "BANKNAME": "Chikum Microfinance Bank",
+        "BANKCODE": "090141"
+    },
+    {
+        "bankcode": "090142",
+        "bankname": "Yes MFB",
+        "BANKNAME": "Yes MFB",
+        "BANKCODE": "090142"
+    },
+    {
+        "bankcode": "090143",
+        "bankname": "APEKS Microfinance Bank",
+        "BANKNAME": "APEKS Microfinance Bank",
+        "BANKCODE": "090143"
+    },
+    {
+        "bankcode": "090144",
+        "bankname": "CIT Microfinance Bank",
+        "BANKNAME": "CIT Microfinance Bank",
+        "BANKCODE": "090144"
+    },
+    {
+        "bankcode": "090145",
+        "bankname": "Full range MFB",
+        "BANKNAME": "Full range MFB",
+        "BANKCODE": "090145"
+    },
+    {
+        "bankcode": "090146",
+        "bankname": "Trident Microfinance Bank",
+        "BANKNAME": "Trident Microfinance Bank",
+        "BANKCODE": "090146"
+    },
+    {
+        "bankcode": "090147",
+        "bankname": "Hackman Microfinance Bank",
+        "BANKNAME": "Hackman Microfinance Bank",
+        "BANKCODE": "090147"
+    },
+    {
+        "bankcode": "090148",
+        "bankname": "Bowen MFB",
+        "BANKNAME": "Bowen MFB",
+        "BANKCODE": "090148"
+    },
+    {
+        "bankcode": "090149",
+        "bankname": "IRL Microfinance Bank",
+        "BANKNAME": "IRL Microfinance Bank",
+        "BANKCODE": "090149"
+    },
+    {
+        "bankcode": "090150",
+        "bankname": "Virtue MFB",
+        "BANKNAME": "Virtue MFB",
+        "BANKCODE": "090150"
+    },
+    {
+        "bankcode": "090151",
+        "bankname": "Mutual Trust Microfinance Bank",
+        "BANKNAME": "Mutual Trust Microfinance Bank",
+        "BANKCODE": "090151"
+    },
+    {
+        "bankcode": "090152",
+        "bankname": "Nargata MFB",
+        "BANKNAME": "Nargata MFB",
+        "BANKCODE": "090152"
+    },
+    {
+        "bankcode": "090153",
+        "bankname": "FFS Microfinance Bank",
+        "BANKNAME": "FFS Microfinance Bank",
+        "BANKCODE": "090153"
+    },
+    {
+        "bankcode": "090154",
+        "bankname": "CEMCS MFB",
+        "BANKNAME": "CEMCS MFB",
+        "BANKCODE": "090154"
+    },
+    {
+        "bankcode": "090155",
+        "bankname": "Lafayette Microfinance Bank",
+        "BANKNAME": "Lafayette Microfinance Bank",
+        "BANKCODE": "090155"
+    },
+    {
+        "bankcode": "090156",
+        "bankname": "e-BARCs MFB",
+        "BANKNAME": "e-BARCs MFB",
+        "BANKCODE": "090156"
+    },
+    {
+        "bankcode": "090157",
+        "bankname": "Infinity MFB",
+        "BANKNAME": "Infinity MFB",
+        "BANKCODE": "090157"
+    },
+    {
+        "bankcode": "090158",
+        "bankname": "FUTO MFB",
+        "BANKNAME": "FUTO MFB",
+        "BANKCODE": "090158"
+    },
+    {
+        "bankcode": "090159",
+        "bankname": "Credit Afrique MFB",
+        "BANKNAME": "Credit Afrique MFB",
+        "BANKCODE": "090159"
+    },
+    {
+        "bankcode": "090160",
+        "bankname": "Addosser MFBB",
+        "BANKNAME": "Addosser MFBB",
+        "BANKCODE": "090160"
+    },
+    {
+        "bankcode": "090161",
+        "bankname": "Okpoga MFB",
+        "BANKNAME": "Okpoga MFB",
+        "BANKCODE": "090161"
+    },
+    {
+        "bankcode": "090163",
+        "bankname": "First Multiple MFB",
+        "BANKNAME": "First Multiple MFB",
+        "BANKCODE": "090163"
+    },
+    {
+        "bankcode": "090164",
+        "bankname": "First Royal Microfinance Bank",
+        "BANKNAME": "First Royal Microfinance Bank",
+        "BANKCODE": "090164"
+    },
+    {
+        "bankcode": "090165",
+        "bankname": "Petra Microfinance Bank",
+        "BANKNAME": "Petra Microfinance Bank",
+        "BANKCODE": "090165"
+    },
+    {
+        "bankcode": "100001",
+        "bankname": "FET",
+        "BANKNAME": "FET",
+        "BANKCODE": "100001"
+    },
+    {
+        "bankcode": "100002",
+        "bankname": "Paga",
+        "BANKNAME": "Paga",
+        "BANKCODE": "100002"
+    },
+    {
+        "bankcode": "100003",
+        "bankname": "Parkway-ReadyCash",
+        "BANKNAME": "Parkway-ReadyCash",
+        "BANKCODE": "100003"
+    },
+    {
+        "bankcode": "100004",
+        "bankname": "Paycom",
+        "BANKNAME": "Paycom",
+        "BANKCODE": "100004"
+    },
+    {
+        "bankcode": "100005",
+        "bankname": "Cellulant",
+        "BANKNAME": "Cellulant",
+        "BANKCODE": "100005"
+    },
+    {
+        "bankcode": "100006",
+        "bankname": "eTranzact",
+        "BANKNAME": "eTranzact",
+        "BANKCODE": "100006"
+    },
+    {
+        "bankcode": "100007",
+        "bankname": "StanbicMobileMoney",
+        "BANKNAME": "StanbicMobileMoney",
+        "BANKCODE": "100007"
+    },
+    {
+        "bankcode": "100008",
+        "bankname": "Ecobank Xpress Account",
+        "BANKNAME": "Ecobank Xpress Account",
+        "BANKCODE": "100008"
+    },
+    {
+        "bankcode": "100009",
+        "bankname": "GTMobile",
+        "BANKNAME": "GTMobile",
+        "BANKCODE": "100009"
+    },
+    {
+        "bankcode": "100010",
+        "bankname": "TeasyMobile",
+        "BANKNAME": "TeasyMobile",
+        "BANKCODE": "100010"
+    },
+    {
+        "bankcode": "100011",
+        "bankname": "Mkudi",
+        "BANKNAME": "Mkudi",
+        "BANKCODE": "100011"
+    },
+    {
+        "bankcode": "100012",
+        "bankname": "VTNetworks",
+        "BANKNAME": "VTNetworks",
+        "BANKCODE": "100012"
+    },
+    {
+        "bankcode": "100013",
+        "bankname": "AccessMobile",
+        "BANKNAME": "AccessMobile",
+        "BANKCODE": "100013"
+    },
+    {
+        "bankcode": "100014",
+        "bankname": "FBNMobile",
+        "BANKNAME": "FBNMobile",
+        "BANKCODE": "100014"
+    },
+    {
+        "bankcode": "100015",
+        "bankname": "Kegow",
+        "BANKNAME": "Kegow",
+        "BANKCODE": "100015"
+    },
+    {
+        "bankcode": "100016",
+        "bankname": "FortisMobile",
+        "BANKNAME": "FortisMobile",
+        "BANKCODE": "100016"
+    },
+    {
+        "bankcode": "100017",
+        "bankname": "Hedonmark",
+        "BANKNAME": "Hedonmark",
+        "BANKCODE": "100017"
+    },
+    {
+        "bankcode": "100018",
+        "bankname": "ZenithMobile",
+        "BANKNAME": "ZenithMobile",
+        "BANKCODE": "100018"
+    },
+    {
+        "bankcode": "100019",
+        "bankname": "Fidelity Mobile",
+        "BANKNAME": "Fidelity Mobile",
+        "BANKCODE": "100019"
+    },
+    {
+        "bankcode": "100020",
+        "bankname": "MoneyBox",
+        "BANKNAME": "MoneyBox",
+        "BANKCODE": "100020"
+    },
+    {
+        "bankcode": "100021",
+        "bankname": "Eartholeum",
+        "BANKNAME": "Eartholeum",
+        "BANKCODE": "100021"
+    },
+    {
+        "bankcode": "100022",
+        "bankname": "Sterling Mobile",
+        "BANKNAME": "Sterling Mobile",
+        "BANKCODE": "100022"
+    },
+    {
+        "bankcode": "100023",
+        "bankname": "TagPay",
+        "BANKNAME": "TagPay",
+        "BANKCODE": "100023"
+    },
+    {
+        "bankcode": "100024",
+        "bankname": "Imperial Homes Mortgage Bank",
+        "BANKNAME": "Imperial Homes Mortgage Bank",
+        "BANKCODE": "100024"
+    },
+    {
+        "bankcode": "100025",
+        "bankname": "KongaPay",
+        "BANKNAME": "KongaPay",
+        "BANKCODE": "100025"
+    },
+    {
+        "bankcode": "100026",
+        "bankname": "ONE FINANCE",
+        "BANKNAME": "ONE FINANCE",
+        "BANKCODE": "100026"
+    },
+    {
+        "bankcode": "100027",
+        "bankname": "Intellifin",
+        "BANKNAME": "Intellifin",
+        "BANKCODE": "100027"
+    },
+    {
+        "bankcode": "100028",
+        "bankname": "AG MORTGAGE BANK PLC",
+        "BANKNAME": "AG MORTGAGE BANK PLC",
+        "BANKCODE": "100028"
+    },
+    {
+        "bankcode": "100029",
+        "bankname": "Innovectives Kesh",
+        "BANKNAME": "Innovectives Kesh",
+        "BANKCODE": "100029"
+    },
+    {
+        "bankcode": "100031",
+        "bankname": "FCMB MOBILE",
+        "BANKNAME": "FCMB MOBILE",
+        "BANKCODE": "100031"
+    },
+    {
+        "bankcode": "100032",
+        "bankname": "Contec Global",
+        "BANKNAME": "Contec Global",
+        "BANKCODE": "100032"
+    },
+    {
+        "bankcode": "110001",
+        "bankname": "PayAttitude Online",
+        "BANKNAME": "PayAttitude Online",
+        "BANKCODE": "110001"
+    },
+    {
+        "bankcode": "110002",
+        "bankname": "Flutterwave Technology solutions Limited",
+        "BANKNAME": "Flutterwave Technology solutions Limited",
+        "BANKCODE": "110002"
+    },
+    {
+        "bankcode": "400001",
+        "bankname": "FSDH",
+        "BANKNAME": "FSDH",
+        "BANKCODE": "400001"
+    },
+    {
+        "bankcode": "999999",
+        "bankname": "NIP Virtual Bank",
+        "BANKNAME": "NIP Virtual Bank",
+        "BANKCODE": "999999"
+    }
+]
