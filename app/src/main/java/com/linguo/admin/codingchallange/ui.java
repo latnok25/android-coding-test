@@ -1,10 +1,12 @@
 package com.linguo.admin.codingchallange;
 
 import android.graphics.Color;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
 
@@ -29,6 +31,11 @@ public class ui extends AppCompatActivity {
 
         spinner = findViewById(R.id.statee);
         spinner1 = findViewById(R.id.town);
+        final ImageView img,img1,img2;
+
+        img = findViewById(R.id.img1);
+        img1 = findViewById(R.id.img2);
+        img2 = findViewById(R.id.img3);
 
         populateSpinners();
 
@@ -45,6 +52,7 @@ public class ui extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
+                        img2.setColorFilter(ContextCompat.getColor( ui.this, R.color.yellow), android.graphics.PorterDuff.Mode.SRC_IN);
                         ti.setTextColor(Color.parseColor("#000000"));
                         findViewById(R.id.line1).setBackgroundColor(Color.parseColor("#FFEB3B"));
                     }

@@ -92,6 +92,7 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 app:srcCompat="@drawable/circle"
+                android:tint="#D3D3D3"
                 android:background="?attr/selectableItemBackgroundBorderless"
                 style="@style/SelectableItemBackground"
                 android:clickable="true"
@@ -124,6 +125,7 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 app:srcCompat="@drawable/circle"
+                android:tint="#D3D3D3"
                 android:background="?attr/selectableItemBackgroundBorderless"
                 style="@style/SelectableItemBackground"
                 android:clickable="true"
@@ -156,6 +158,7 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 app:srcCompat="@drawable/circle"
+                android:tint="#D3D3D3"
                 android:background="?attr/selectableItemBackgroundBorderless"
                 style="@style/SelectableItemBackground"
                 android:clickable="true"
@@ -195,18 +198,18 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="1dp"
                         android:text="Personal"
-                        android:textSize="20sp"
-                        android:layout_weight="30"
+                        android:textSize="13sp"
+                        android:layout_weight="20"
                         android:textColor="#808080"
-                        android:gravity="left"/>
+                        android:gravity="center"/>
                     <TextView
                         android:id="@+id/text2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_margin="1dp"
                         android:text="Contact"
-                        android:layout_weight="30"
-                        android:textSize="20sp"
+                        android:layout_weight="50"
+                        android:textSize="13sp"
                         android:textColor="#808080"
                         android:gravity="center"/>
                     <TextView
@@ -215,8 +218,8 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="1dp"
                         android:text="Upload"
-                        android:layout_weight="55"
-                        android:textSize="20sp"
+                        android:layout_weight="40"
+                        android:textSize="13sp"
                         android:textColor="#808080"
                         android:gravity="center"/>
 
