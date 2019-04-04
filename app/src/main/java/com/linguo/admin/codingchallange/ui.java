@@ -43,7 +43,10 @@ public class ui extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
+                        img.setColorFilter(ContextCompat.getColor( ui.this, R.color.yellow), android.graphics.PorterDuff.Mode.SRC_IN);
+                        img1.setColorFilter(ContextCompat.getColor( ui.this, R.color.grey), android.graphics.PorterDuff.Mode.SRC_IN);
                         t.setTextColor(Color.parseColor("#000000"));
+                        findViewById(R.id.line1).setBackgroundColor(Color.parseColor("#D3D3D3"));
                     }
                 }
         );
@@ -52,9 +55,11 @@ public class ui extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        img2.setColorFilter(ContextCompat.getColor( ui.this, R.color.yellow), android.graphics.PorterDuff.Mode.SRC_IN);
+                        img1.setColorFilter(ContextCompat.getColor( ui.this, R.color.yellow), android.graphics.PorterDuff.Mode.SRC_IN);
+                        img2.setColorFilter(ContextCompat.getColor( ui.this, R.color.grey), android.graphics.PorterDuff.Mode.SRC_IN);
                         ti.setTextColor(Color.parseColor("#000000"));
                         findViewById(R.id.line1).setBackgroundColor(Color.parseColor("#FFEB3B"));
+                        findViewById(R.id.line2).setBackgroundColor(Color.parseColor("#D3D3D3"));
                     }
                 }
         );
@@ -63,6 +68,7 @@ public class ui extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
+                        img2.setColorFilter(ContextCompat.getColor( ui.this, R.color.yellow), android.graphics.PorterDuff.Mode.SRC_IN);
                         t2.setTextColor(Color.parseColor("#000000"));
                         findViewById(R.id.line2).setBackgroundColor(Color.parseColor("#FFEB3B"));
                     }
