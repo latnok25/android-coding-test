@@ -41,10 +41,10 @@ public class MainActivity extends AppCompatActivity {
         recyclerView = findViewById(R.id.r);
         bar = findViewById(R.id.bar);
 
-        send();
+      //  send();
     }
 
-    private void send(){
+  /**  private void send(){
         requestQueue = Volley.newRequestQueue(this);
         stringRequest = new StringRequest(Request.Method.GET, GET, new Response.Listener<String>() {
             @Override
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         requestQueue.add(stringRequest);
-    }
+    } **/
 
 
 }
